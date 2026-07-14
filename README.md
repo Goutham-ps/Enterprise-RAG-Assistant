@@ -234,7 +234,7 @@ python -m streamlit run app.py
 ## 🔗 GitHub Repository
 
 ```
-https://github.com/YOUR_USERNAME/Enterprise-RAG-Assistant
+https://github.com/Goutham-ps/Enterprise-RAG-Assistant
 ```
 
 ---
