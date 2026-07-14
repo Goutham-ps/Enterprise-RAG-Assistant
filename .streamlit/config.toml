@@ -1,0 +1,9 @@
+[logger]
+level = "info"
+
+[client]
+showErrorDetails = true
+
+[theme]
+base = "dark"
+primaryColor = "#2563eb"
