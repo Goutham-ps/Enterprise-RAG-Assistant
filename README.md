@@ -276,7 +276,7 @@ Future Support
 **Goutham P S**
 
 * GitHub: https://github.com/Goutham-ps
-* LinkedIn: *(Add your LinkedIn URL here)*
+* portfolio: https://gouthamps.vercel.app/
 
 ---
 
