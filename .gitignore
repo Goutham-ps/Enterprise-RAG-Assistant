@@ -1,14 +1,29 @@
+# Virtual Environment
 .venv/
+venv/
+env/
+
+# Python Cache
 __pycache__/
 *.pyc
 
+# Environment Variables
 .env
 
-uploads/
-vectorstore/
+# Uploaded PDFs
+uploads/*
 
-.streamlit/secrets.toml
+# FAISS Vector Database
+vectorstore/*
 
+# VS Code
 .vscode/
 
+# PyCharm
 .idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
